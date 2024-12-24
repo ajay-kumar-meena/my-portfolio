@@ -12,7 +12,7 @@ This is my personal portfolio website created using **React** and styled with **
 ## 🚀 Tech Stack  
 - **React**: Frontend framework  
 - **Tailwind CSS**: Styling  
-- **Slider Library**: [Library name] for carousel/slider functionality  
+- **Slider Li**: custome functionality made by me  
 
 ## 📸 Screenshots  
 *(Include a few screenshots of your portfolio for a better visual understanding.)*
